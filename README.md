@@ -129,7 +129,7 @@ A complete data pipeline built entirely within the **Microsoft Fabric** ecosyste
 If you're exploring Microsoft Fabric for your data platform, feel free to connect and share learnings!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/harsha-venkata-sai-katta-a4478316b)
-
+www.linkedin.com/in/harsha-venkata-sai-katta-a4478316b
 ---
 
 *Built with ❤️ using Microsoft Fabric*
