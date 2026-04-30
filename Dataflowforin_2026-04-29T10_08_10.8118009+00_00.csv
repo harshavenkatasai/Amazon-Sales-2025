@@ -1,0 +1,9 @@
+Dataflow name,Dataflow refresh status,Table name,Start time,End time,Duration,Engine,Refresh status,Status details
+Dataflowforin,Failed,NA,2026-04-29T10:08:10.8118009+00:00,2026-04-29T10:08:33.6006936+00:00,00:00:22,NA,Failed,"There was a problem refreshing the dataflow: ""Something went wrong, please try again later. If the error persists, please contact support."". Error code: EntityUserFailure. (Request ID: 55c18abe-7e0b-4b2e-9919-80878e77dd0a)."
+Dataflowforin,Failed,part-00000-fa2e4099-00ba-4504-8885-1656d7889563-c000 snappy parquet,2026-04-29T10:08:20.5674737+00:00,2026-04-29T10:08:26.0997168+00:00,00:00:05,NA,Succeeded,
+
+
+
+
+Dataflow name,Dataflow refresh status,Action,Start time,End time,Duration,Engine,Refresh status,Status details
+Dataflowforin,Failed,part-00000-fa2e4099-00ba-4504-8885-1656d7889563-c000_WriteToDataDestination,2026-04-29T10:08:26.0997168+00:00,2026-04-29T10:08:33.1271126+00:00,00:00:07,NA,Failed,"There was a problem refreshing the dataflow: ""Couldn't refresh the entity because of an issue with the mashup document MashupException.Error: DataSource.Error: The type of column 'Customer First Name' isn't supported by this data source. Details: Reason = DataSource.Error;ErrorCode = 10562;Microsoft.Data.Mashup.Error.Context = User"". Error code: 104100. (Request ID: 55c18abe-7e0b-4b2e-9919-80878e77dd0a)."
